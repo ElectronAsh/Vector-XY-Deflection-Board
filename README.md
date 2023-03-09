@@ -51,8 +51,10 @@ I will try to get some PCBs ordered for this soon, to test it.
 
 
 The LT1227 opamps have a maximum supply rail voltage of +/- 18V.
-A typical centre-tapped transformer with an output voltage of "12VRMS" (AC) will give a DC voltage of around 15-17V after the bridge rectifier.
+A typical centre-tapped transformer with an output voltage of "12VRMS" (AC) will give a DC voltage of roughly 15V to 17V after the bridge rectifier.
 
 So I would NOT recommending using a higher transformer voltage than that atm.
 Maybe some shunt regulators could be added to the opamps?
 
+
+![Eagle PCB preview](/images/pcb.png)
