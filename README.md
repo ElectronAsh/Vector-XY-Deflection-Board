@@ -1,7 +1,11 @@
 # Vector-XY-Deflection-Board
 XY Deflection Driver board for Vector arcade games
 
+This is in Eagle format. I'm using Autodesk Eagle 9.0.1 atm.
+
 Please note, this design is UNTESTED.
+Please do NOT use the included Gerbers zip file yet. That was just for previewing the design.
+
 There is also no output connector from the Spot Killer circuit added yet.
 
 
