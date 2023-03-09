@@ -25,7 +25,7 @@ The old fuses were removed, because fuse holders could (should?) be added extern
  It should be possible to add some current-limiting to the design later.
  I think a couple of external fuses on the transformer secondaries will offer half-decent protection in mean time.)
 
-Plus I added the Gain pots, linearity pots, and Spot Killer circuit, and larger main transistors + driver transistors, all based on this video series...
+Plus I added the Gain pots, linearity pots, Spot Killer circuit, and larger main transistors + driver transistors, all based on this video series...
 https://youtu.be/xNVZ1HK8R1w?t=1326
 
 
@@ -35,6 +35,7 @@ Hence the holes in the PCB to allow access to the mounting screws for the transi
 (The transistors can't easily be mounted to a heatsink at 90-degrees to the board any more, as the transistors would need to be flipped around.)
 
 I think mounting them on a heatsink below the PCB will be a lot neater and more stable.
+I guess a heatsink at 90-degrees to the board could still be used, but the transistors would need to point downwards from the underside of the PCB.
 
 
 The "Unblank" RCA jack output was removed, which was originally intended for driving the Blanking input on the Vectrex power board.
